@@ -34,9 +34,9 @@
 [<img align="left" alt="Unix" width="30px" src="https://github.com/yannhunter/yanickEkongue/blob/master/Tools_icons/helm.png" />][helm]
 [<img align="left" alt="Unix" width="30px" src="https://github.com/yannhunter/yanickEkongue/blob/master/Tools_icons/jfrog.png" />][endtoend]
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/kubernetes.png" />][kubernetesplaylist]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/nexus.png" />][kubernetesplaylist]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/prometheus.png" />][prometheus]
-[<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/teraform.png" />][kubernetesplaylist]
+[<img align="left" alt="Unix" width="30px" src="https://github.com/yannhunter/yanickEkongue/blob/master/Tools_icons/nexus.png" />][kubernetesplaylist]
+[<img align="left" alt="Unix" width="30px" src="https://github.com/yannhunter/yanickEkongue/blob/master/Tools_icons/prometheus.png" />][prometheus]
+[<img align="left" alt="Unix" width="30px" src="https://github.com/yannhunter/yanickEkongue/blob/master/Tools_icons/teraform.png" />][kubernetesplaylist]
 
 
 <br />
@@ -44,7 +44,7 @@
 
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yannhunter&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yannhunter&show_icons=true&hide_border=true" /> -->
 
 [facebook]: https://www.facebook.com/
 [twitter]: https://twitter.com/yannserge
