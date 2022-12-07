@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects and tech videos 
-- ⚡ Fun fact: I love to run 🏃
+- ⚡ Fun fact: I love to swim 🏊
 
 ### Connect with me:
 
