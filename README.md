@@ -1,4 +1,4 @@
-## Hi there, I'm Yanick Ekongue 👋
+## Hi there, I'm Yanick EKONGUE 👋
 
 ### I am a Devops enthusiast with a taste for automation and proven experience in maintaining and administering the DevOps process.
 - 🔭 I’m currently working on a Creating Devops related tech resourses 
